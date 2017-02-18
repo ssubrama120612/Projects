@@ -1,0 +1,33 @@
+<deliverto></deliverto>
+
+<div class='row-fluid'>
+	<div class='span3 fm-panel'>
+		<h4>Filter Restaurants</h4>
+		<h5>Rating</h5>
+		<rating></rating>
+		<h5>Price</h5>
+		<price></price>
+		<h5>Cuisine</h5>
+		<div ng-controller="filtercontroller">
+			<div ng-repeat='c in cusines'>
+				<input type='checkbox' ng-model='c.checked'>{{c.name}}</input>
+			</div>
+		</div>
+	</div>
+
+	<div class='span9 fm-panel fm-restaurant-list'
+		ng-controller='restaurantTableController'>
+		<h4>{{restaurants.length}} restaurents found!</h4>
+		<table class='table table-hover table-striped'>
+			<tr>
+				<th>Name</th>
+				<th>Price</th>
+				<th>Rating</th>
+			</tr>
+			<tbody>
+				<tr ng-repeat='r in restaurants' restaurent='r'></tr>
+			</tbody>
+		</table>
+	</div>
+
+</div>

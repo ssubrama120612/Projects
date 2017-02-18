@@ -1,0 +1,1202 @@
+menus = [
+ {
+   "Cuisine": "african",
+   "Item Name": "Dibi Lamb",
+   "Price": "8.25"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Doro Wat",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Grilled Chicken",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Grilled Fish",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Grilled Plantains in Spicy Peanut Sauce",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Lamb Mafe (Peanut Butter Stew)",
+   "Price": "8.75"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Meat Pie",
+   "Price": "6"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Mechoui with Plantains",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Pepper Soup",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Piri-Piri Shrimp",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Suppa Kandja",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Thiou Boulette",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Thiou Curry with Chicken",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Thu Okra",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Yassa Chicken",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "african",
+   "Item Name": "Yassa Lamb",
+   "Price": "8.25"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Buffalo wings",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "California-style baked Tilapia with rice",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Cheeseburger and fries",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Cherry pie a la mode",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Chocolate milkshake",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Cobb salad",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Famous BLT on a kaiser roll with fries",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Firehouse chili",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Goat cheese and eggplant wrap (vegetarian)",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Greek salad",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Grilled chicken sandwich",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Grilled sausage on a bun",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Housemade pot roast with seasonal vegetable",
+   "Price": "16.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Roast beef dip",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Roast chicken and mashed potatoes",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Soup of the day",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "american",
+   "Item Name": "Spaghetti and meatballs",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "BBQ chicken",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Beef ribs (full)",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Beef ribs (delux)",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Beef ribs (half)",
+   "Price": "6.45"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Beer",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Coleslaw",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Collards",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Cornbread",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Devilled eggs",
+   "Price": "4"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "German chocolate cake",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Housemade chips",
+   "Price": "4"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Hushpuppies",
+   "Price": "3.25"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Mac and cheese",
+   "Price": "6"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Pork ribs (half)",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Potato salad",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Pulled pork sandwich on a soft roll",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "barbecue",
+   "Item Name": "Riblets",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Apple pie",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "B.L.T. and Avocado Sandwich",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Caesar salad",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Cappucino",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Cherry cheesecake",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Chocolate chip cookie",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Cobb salad",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Drip coffee",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Eggsalad Sandwich",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Espresso",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Greek salad",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Hot tea",
+   "Price": "2.5"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Iced tea",
+   "Price": "2.5"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Latte",
+   "Price": "4"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Mango and banana smoothie",
+   "Price": "3"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Orange juice",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Quiche of the day",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "cafe",
+   "Item Name": "Turkey Sandwich",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Almond cookie",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Chicken and broccoli",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Chow mein",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Egg rolls (4)",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "General Tao's chicken",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Hot and Sour Soup",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Hunan dumplings",
+   "Price": "6.5"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Mongolian beef",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Pan-fried beef noodle",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Pea shoots with garlic",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Potstickers (6)",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Seafood hotpot",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Steamed rice",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Sweet and sour pork",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Walnut prawns",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Wonton Soup",
+   "Price": "6.25"
+ },
+ {
+   "Cuisine": "chinese",
+   "Item Name": "Young Chow fried rice",
+   "Price": "6.45"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Apple strudel",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Apricot dumpling with yogurt topping ",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Balkánský Salad",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Beef goulash",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Chicken breast fillet schnitzel ",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Cucumber Salad",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Dumplings",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Fried goose liver with onion and bread",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Halusky with sauerkraut and belly bacon ",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Lentil soup",
+   "Price": "4.5"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Pickles with cabbage and cheddar",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Pork schnitzel",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Potato pancake with bacon",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Potato Salad",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Segedínský gulash and dumplings",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "czech/slovak",
+   "Item Name": "Sour cabbage soup",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "bavette dans son jus",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "bœuf bourguignon ",
+   "Price": "18"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "bouillabaisse",
+   "Price": "17.5"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "coq au vin",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "frites aïoli ",
+   "Price": ""
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "moules et frites",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "poulet au riesling",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "quiche lorraine",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "salade de chèvre chaud",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "salade du midi",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "salade niçoise",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "sandwich croque-madame",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "sandwich croque-monsieur",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "soupe à l'oignon",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "steak frites",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "tarte pissaladière ",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "french",
+   "Item Name": "tarte tatin",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Bockwurst Würstchen",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Bratwurst mit Brötchen und Sauerkraut",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Currywurst mit Brötchen",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Das Hausmannskost",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Fleishkas mit Kartoffelsalat",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Frankfurter Würstchen",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Französische Zwiebelsuppe mit Käse",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Frikadelle mit Brötchen",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Gebackener Camenbert",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Gemischter Salat",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Haus Salatteller",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Jaegerschnitzel",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Kaesepaetzle",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Kartoffel Reibekuchen mit Apfelmus",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Maultaschen mit Käse",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Sauerbraten",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Ungarische Gulaschsuppe mit Brötchen",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Wienerschnitzel",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "german",
+   "Item Name": "Wurstsalad mit Bauernbrot",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Aloo Gobi",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Basmati rice",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Butter Chicken",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Chicken Korma",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Chicken Tikka Masala",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Gulab Jamun",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Kheer",
+   "Price": "4.5"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Lamb Asparagus",
+   "Price": "9.5"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Lamb Vindaloo",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Mix Grill Bombay",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Mulligatawny soup",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Murgh Chicken",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Naan stuffed with spinach and lamb",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Plain naan",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Rogan Josh",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Saag Paneer",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "indian",
+   "Item Name": "Tandoori Chicken",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "California roll",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Chicken teriyaki",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Edamame",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Futomaki roll",
+   "Price": ""
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Green tea ice cream",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Kitsune Udon",
+   "Price": "9.5"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Miso soup",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Pork Katsu",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Salmon teriyaki",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Sashimi combo",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Spicy Yellowtail roll",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Sushi combo",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Teppa Maki",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Unagi Don",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Vegetable tempura",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Vegetarian sushi plate",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "japanese",
+   "Item Name": "Wakame salad",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Beans and rice",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Beef burrito",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Birria",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Chicken burrito",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Chicken mole platter",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Chile relleno (meat)",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Chile relleno (vegetarian)",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Chips and guacamole",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Enchiladas",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Flan",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Jamaica Aqua Fresca",
+   "Price": "2.5"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Pork al pastor platter",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Sopa de albondigas",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Sopa de pollo",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Strawberry Aqua Fresca",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Super nachos with carne asada",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Tacos de la casa (3)",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "mexican",
+   "Item Name": "Vegetarian platter",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Cesar salad",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Cheesecake",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Chicago-style deep dish chicken and spinach",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Chicago-style deep dish pepperoni and cheese",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Chicago-style deep dish vegetarian",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Chicago-style meat lover's",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Chocolate cake",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Coffee",
+   "Price": "7.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Garlic bread",
+   "Price": ""
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Greek salad",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Pizza of the day (slice)",
+   "Price": "7.55"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Thin crust anchovy and garlic and chili pepper",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Thin crust broccoli, chicken, and mozarella",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Thin crust margherita",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Thin crust pepperoni",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Thin crust quattro stagione",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "pizza",
+   "Item Name": "Thin crust sausage and guanciale bacon",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Basil duck with rice",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Curry salmon",
+   "Price": "12.45"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Egg rolls (4)",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Fried banana and ice cream",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Green curry with chicken",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Green curry with pork",
+   "Price": "4.55"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Hot tea",
+   "Price": "2.5"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Onion pancake",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Pad See Ew",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Pad Thai",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Pumpkin curry",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Red curry with chicken",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Red curry with pork",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Sticky rice with mango",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Thai iced coffee",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Thai iced tea",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "thai",
+   "Item Name": "Tofu salad rolls",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "bean and cheese burrito",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "cheese tortellini in tomato sauce",
+   "Price": "3.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "coffee",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "falafel wrap with tabbouleh",
+   "Price": "4.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "flourless chocolate cake",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "garden fresh salad",
+   "Price": "6.5"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "happy buddha stir fry",
+   "Price": "10.45"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "hummus appetizer plate",
+   "Price": "8"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "lentil burger",
+   "Price": "6"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "lentil soup",
+   "Price": "4.5"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "pasta with olives and marinated lemon",
+   "Price": "6.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "spinach and cheese wrap",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "tea",
+   "Price": "5.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "toasted sandwich with grilled eggplant",
+   "Price": "8.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "tofu chicken wrap",
+   "Price": "9.95"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "tomato and cheese sandwich",
+   "Price": "11.45"
+ },
+ {
+   "Cuisine": "vegetarian",
+   "Item Name": "vegetable stew",
+   "Price": "5.95"
+ }
+]
